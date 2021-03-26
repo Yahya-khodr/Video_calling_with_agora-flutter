@@ -1,6 +1,7 @@
 # chatting_with_mentors
 
 A new Flutter project.
+create agora project in console.agora.io , then replace the APP_ID with your own one
 
 ## Getting Started
 
