@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "944163285274",
+    "project_id": "chatting-with-mentors",
+    "storage_bucket": "chatting-with-mentors.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944163285274:android:ca540a458027f6830264a3",
+        "android_client_info": {
+          "package_name": "com.example.chatting_with_mentors"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944163285274-n6bvuta0i330mud9nvdd60i0rapv92q6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB58nF_49icQhYI927rNxVFKqeoG5f3cM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944163285274-n6bvuta0i330mud9nvdd60i0rapv92q6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
